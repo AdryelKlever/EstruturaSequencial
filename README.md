@@ -2,4 +2,4 @@
 
 # Exercicio 1 
 
-![Optional Text](../main/Exercicios1/Exercicios1/Imagem/Atividade.jpg)
+![Exercicio 1](EstruturalSequencial/main/Exercicios1/Exercicios1/Imagem/Atividade.jpg)
