@@ -1,0 +1,13 @@
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\bin\Debug\netcoreapp3.1\Exercicios1.exe
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\bin\Debug\netcoreapp3.1\Exercicios1.deps.json
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\bin\Debug\netcoreapp3.1\Exercicios1.runtimeconfig.json
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\bin\Debug\netcoreapp3.1\Exercicios1.runtimeconfig.dev.json
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\bin\Debug\netcoreapp3.1\Exercicios1.dll
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\bin\Debug\netcoreapp3.1\Exercicios1.pdb
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\obj\Debug\netcoreapp3.1\Exercicios1.csprojAssemblyReference.cache
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\obj\Debug\netcoreapp3.1\Exercicios1.AssemblyInfoInputs.cache
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\obj\Debug\netcoreapp3.1\Exercicios1.AssemblyInfo.cs
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\obj\Debug\netcoreapp3.1\Exercicios1.csproj.CoreCompileInputs.cache
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\obj\Debug\netcoreapp3.1\Exercicios1.dll
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\obj\Debug\netcoreapp3.1\Exercicios1.pdb
+C:\Users\Adryel\source\repos\EstruturaSequencial\Exercicios1\Exercicios1\obj\Debug\netcoreapp3.1\Exercicios1.genruntimeconfig.cache
